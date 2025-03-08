@@ -1,1 +1,5 @@
-.ipynb_checkpoints
+.ipynb_checkpointsdatasets/
+requirements.txt
+examples
+COPYING
+poetry.lock
