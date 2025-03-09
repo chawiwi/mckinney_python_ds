@@ -1,0 +1,19 @@
+[project]
+name = "mckinney-python-ds"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "beautifulsoup4>=4.13.3",
+    "lxml>=5.3.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "patsy>=1.0.1",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+]
